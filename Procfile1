@@ -1,0 +1,2 @@
+heroku buildpacks:set heroku/python
+worker: python app.py
