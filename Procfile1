@@ -1,2 +1,2 @@
 heroku buildpacks:set heroku/python
-worker: python app.py
+worker: python mtz-net.py
