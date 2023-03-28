@@ -1,3 +1,4 @@
 # 3.9
 worker: python app.py
-python-3.9.1
+heroku buildpacks:set heroku/python
+
